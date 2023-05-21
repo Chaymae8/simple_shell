@@ -1,1 +1,2 @@
 Simple shell
+project partner
